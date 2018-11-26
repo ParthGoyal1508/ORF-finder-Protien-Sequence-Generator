@@ -12,4 +12,4 @@ The program uses a file `sequence.fasta`, containing the sequence of nucleic aci
 		c) HEK293 Cell line.
 
 ## Running the program
-- Run the command `python3 exec.py` to generate 5 files each of which corresponds to the description points as mentioned.
+- Run the command `python3 final.py` to generate 5 files each of which corresponds to the description points as mentioned.
